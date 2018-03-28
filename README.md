@@ -1,6 +1,12 @@
 # SIMULATION OF PREDATOR PREY DYNAMICS USING DEEP REINFORCEMENT LEARNING
 ### CS 275: Artificial Life for Computer Graphics and Vision
 
+#### Group Members:
+1. Akshay Sharma
+2. Anoosha Sagar
+3. Maithili Bhide
+4. Rahul Dhavalikar
+
 #### Contents of this Repository:
 1. **_index.html_**: web page of the project for quick understanding and navigation of the project
 2. **_report.pdf_**: report of the project
